@@ -18,6 +18,7 @@ Installation
 8. enter "php artisan key:generate"
 9. enter "php artisan cache:clear"
 10. enter "php artisan migrate:fresh"
+11. enter "php artisan db:seed"
 11. open browser and enter url "localhost/floralserviceapp/public/"
 
 Admin Account
