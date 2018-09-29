@@ -24,3 +24,10 @@ Admin Account
 `````````````
 username - royalflowerservice@gmail.com
 password - 123456
+
+Database Backup & Restore Data
+1. Create new database with same collation (utf8mb4_unicode_ci)
+2. Create database with same name in mysql (floralserviceapp)
+3. Select the new database from the left navigation pane. In the resulting page, select the "Import" command in the top navigation bar. 
+4. Click the "Browse…​" button and select the backup file created earlier. Click "Go" to proceed.
+5. phpMyAdmin will import the data from the backup file.
